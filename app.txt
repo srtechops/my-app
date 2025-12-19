@@ -1,1 +1,5 @@
 Welcome to DevOps World !!!
+
+Linux is Open Source 
+
+Git is also Open Source Developed by linus trovalds 
